@@ -1,0 +1,2 @@
+import CommutativeNoetherianRingsModulesCanonicalLaneLean.GateLemmas
+import CommutativeNoetherianRingsModulesCanonicalLaneLean.FinalTheorem
